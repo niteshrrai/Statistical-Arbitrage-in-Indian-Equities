@@ -1,6 +1,6 @@
 # Statistical-Arbitrage-in-Indian-Equities
 
-Implementation of a Avellaneda and Lee statistical arbitrage strategy for Indian equity market using NIFTY 100 constituents. For detailed explanation of the strategy and results, please refer to the accompanying PDF report.
+Implementation of Avellaneda and Lee statistical arbitrage strategy in Indian equity market using NIFTY 100 constituents. For detailed explanation of the strategy and results, please refer to the accompanying PDF report.
 
 ## Project Structure
 
