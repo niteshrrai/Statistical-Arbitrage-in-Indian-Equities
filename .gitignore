@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.vscode/
+*.code-workspace
+.env
+venv/
+.envrc
+*.DS_Store 
+.colab/
+
+data/
